@@ -62,7 +62,7 @@ export const Banner = (props: {
               POWERED BY{' '}
               <b>
                 <a href="#" style={{ color: '#F32178' }}>
-                  ALIEN ANCIENT ARTEFECT
+                  ANCIENT ALIEN ARTIFECTS
                 </a>
               </b>
             </span>

@@ -47,7 +47,7 @@ export const MetaplexMenu = () => {
   const [isModalVisible, setIsModalVisible] = useState<boolean>(false);
   const { connected } = useWallet();
 
-  if (width < 768)
+  if (width < 850)
     return (
       <>
         <Modal
@@ -117,15 +117,14 @@ export const LogoLink = () => {
       <div
         style={{
           display: 'flex',
-          justifyContent: 'space-between',
           alignItems: 'center',
           gap: '10px',
-          marginTop: '1rem',
+          marginTop: '0.3rem',
         }}
       >
         <img
           src={'/ancient-logo.png'}
-          style={{ width: '4rem', height: '4rem' }}
+          style={{ width: '3.5rem', height: '3.5rem' }}
         />
         <h5 style={{ color: 'white' }}>ANCIENT ALIEN ARTEFACTS</h5>
       </div>

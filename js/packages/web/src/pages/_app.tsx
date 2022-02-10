@@ -11,7 +11,7 @@ export default function App({ Component, pageProps }: AppProps) {
         <title>ANCIENT ALIEN ARTIFECTS</title>
         <link
           rel="apple-touch-icon"
-          sizes="180x180"
+          sizes="60x60"
           href="/apple-touch-icon.png"
         />
         <link
