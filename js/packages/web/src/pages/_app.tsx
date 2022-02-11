@@ -8,10 +8,10 @@ export default function App({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>ANCIENT ALIEN ARTIFECTS</title>
+        <title>ANCIENT ALIEN ARTEFACTS</title>
         <link
           rel="apple-touch-icon"
-          sizes="60x60"
+          sizes="180x180"
           href="/apple-touch-icon.png"
         />
         <link

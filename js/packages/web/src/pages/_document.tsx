@@ -41,7 +41,7 @@ export default class MetaplexDocument extends Document {
           /> */}
           <link
             rel="apple-touch-icon"
-            sizes="60x60"
+            sizes="180x180"
             href="/apple-touch-icon.png"
           />
           <link
